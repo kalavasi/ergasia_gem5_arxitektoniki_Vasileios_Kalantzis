@@ -148,4 +148,5 @@ H πρώτη παρένθεση με τον όρο w1 είναι το κόστο
 
 Βιβλιογραφία:
 Arm Research Starter Kit: System Modeling using gem5, Ashkan Tousi and Chuan Zhu, July 2017 [1](files/gem5_rsk.pdf)
+
 David A. Patterson, John L. Hennessy, Αρχιτεκτονική Υπολογιστών – 6η αμερικανική έκδοση [2]
