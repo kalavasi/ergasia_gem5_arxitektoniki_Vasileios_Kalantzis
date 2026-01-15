@@ -3,7 +3,7 @@
 
 int number(int N){
     int N_out=0;
-    int N_temp=N;
+    int N_temp=N; // ένα απλό loop που υπολογίζει το άθροισμα
     for (N_temp;N_temp>0;N_temp--){
     N_out+=N_temp;
     }
