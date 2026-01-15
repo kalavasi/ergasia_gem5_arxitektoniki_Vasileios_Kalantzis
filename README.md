@@ -53,6 +53,9 @@ system.cpu_cluster.l2.overall_accesses::total          474
 
 ## Μέρος 2
 
+
+[το excel με τις τιμές για το μέρος 2. Υπάρχουν 1 φύλλο για κάθε βήμα](files/arch_ergasia.xlsx)
+
 ### Βήμα 1
 
 1. Η default τιμές είναι:  
