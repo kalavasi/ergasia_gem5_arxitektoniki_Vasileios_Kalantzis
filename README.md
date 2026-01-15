@@ -47,7 +47,7 @@ system.cpu_cluster.l2.overall_accesses::total          474
 
 **Β.** Κοιτώντας τα αποτελέσματα για τους 2 επεξεργαστές παρατηρούμε διαφορές που επιβεβαιώνουν τα χαρακτηριστικά των επεξεργαστών. Αρχικά ο χρόνος host_seconds είναι τριπλάσιος στην minorCPU ενώ το sim_seconds είναι μικρότερο το οποίο μας δείχνει ότι η minorCPU είναι πιο περίπλοκη, αφού το σύστημα παίρνει πιο πολύ χρόνο για να τον εξομοιώσει αλλά το simulated πρόγραμμα τρέχει πιο γρήγορα εξαιτίας του pipeline.  
 - Αλλαγή σε system clock και CPU clock σε 2GHz: μειώθηκαν οι χρόνοι εκτέλεσης και των 2 επεξεργαστών. Συγκεκριμένα μειώθηκε το CPI στην minorCPU και μειώθηκαν οι κύκλοι προσομοίωσης στην TimingSimpleCPU. [Αποτελέσματα minorCPU](files/number_result/Minor_CPU_up_number) [Αποτελέσματα TImingSimpleCPU](files/number_result/Timing_Simple_CPU_up_number)
-- Αλλαγή σε DDR4_2400_16x4: Μικρή βελτίωση στην minorCPU. Ενώ το bandwidth έχει αυξηθεί και το latency της μνήμης έχουν πέσει, το πρόγραμμα είναι πολύ απλό οπότε δεν προκαλεί σημαντική διαφορά. Ομοίως στην TimingSimpleCPU.
+- Αλλαγή σε DDR4_2400_16x4: Μικρή βελτίωση στην minorCPU. Ενώ το bandwidth έχει αυξηθεί και το latency της μνήμης έχουν πέσει, το πρόγραμμα είναι πολύ απλό οπότε δεν προκαλεί σημαντική διαφορά. Ομοίως στην TimingSimpleCPU. [Αποτελέσματα minorCPU](files/number_result/Minor_CPU_memory_number)  [Αποτελέσματα TImingSimpleCPU](files/number_result/Timing_Simple_CPU_memory_number)
 
 ---
 
