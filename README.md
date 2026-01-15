@@ -65,7 +65,7 @@ L2: associativity=8, Size=2ΜΒ
 To cache_line είναι 64  
 Η κύρια μνήμη είναι DDR3_1600_8x8 με χωρητικότητα 512MBx8x2=8GB
 
-2.
+2. [Οι τιμές τις προσομοίωσης](files/spec_results.zip)
   ![DDR3_2133_x64_CPI](images/cpi_sketo.png)
   ![DDR3_2133_x64_CPI](images/sim_seconds_sketo.png)
   ![DDR3_2133_x64_CPI](images/cache_latency_sketo.png)
