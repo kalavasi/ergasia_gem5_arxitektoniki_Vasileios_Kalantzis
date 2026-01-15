@@ -105,11 +105,11 @@ To cache_line είναι 64
 ### 2.
 Τα τεστ είναι:
 
-<!-- Εδώ μπαίνουν οι εικόνες των tests -->
-
 ![Test](images/ta_test.png)
 
 [Επιπλέον το bash script για τα τεστ γραμμένο με βοήθεια AI](files/run_spec_cache.sh)
+
+[Τα αποτελέσματα των τεστ στο gem5](files/spec_results_caches.zip)
 
 ![Test](images/test_benchmark_1.png)
 
