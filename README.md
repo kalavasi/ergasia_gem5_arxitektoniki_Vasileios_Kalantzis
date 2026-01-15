@@ -14,6 +14,7 @@
 ![DDR3_2133_x64_CPI](images/dcache_info.png)
 ![DDR3_2133_x64_CPI](images/icahe_info.png)
 ![DDR3_2133_x64_CPI](images/l2_info.png)
+![DDR3_2133_x64_CPI](images/walker_png.png)
 
 
 **Walker**  
