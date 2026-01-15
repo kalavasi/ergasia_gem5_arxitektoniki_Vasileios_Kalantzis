@@ -12,7 +12,7 @@
 
 **Α.** Αυτά τα καταλαβαίνουμε από το starter_se.py. Για να επιβεβαιώσουμε τα χαρακτηριστικά του συστήματος και να δούμε επιλογές που μπορεί να μην φαίνονται χρησιμοποιούμε το config.ini και βλέπουμε L2 
 ![DDR3_2133_x64_CPI](images/dcache_info.png)
-![DDR3_2133_x64_CPI](images/icache_info.png)
+![DDR3_2133_x64_CPI](images/icahe_info.png)
 ![DDR3_2133_x64_CPI](images/l2_info.png)
 
 
