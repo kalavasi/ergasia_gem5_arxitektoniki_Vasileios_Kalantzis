@@ -10,17 +10,13 @@
 
 ### 2.
 
-**Α.** Αυτά τα καταλαβαίνουμε από το starter_se.py. Για να επιβεβαιώσουμε τα χαρακτηριστικά του συστήματος και να δούμε επιλογές που μπορεί να μην φαίνονται χρησιμοποιούμε το config.ini και βλέπουμε L2 
+**Α.** Αυτά τα καταλαβαίνουμε από το starter_se.py. Για να επιβεβαιώσουμε τα χαρακτηριστικά του συστήματος και να δούμε επιλογές που μπορεί να μην φαίνονται χρησιμοποιούμε το config.ini και βλέπουμε τιμές για dcache, icache, L2 cache και walker cache
 ![DDR3_2133_x64_CPI](images/dcache_info.png)
 ![DDR3_2133_x64_CPI](images/icahe_info.png)
 ![DDR3_2133_x64_CPI](images/l2_info.png)
 ![DDR3_2133_x64_CPI](images/walker_png.png)
 
-
-**Walker**  
-**Dcache**  
-**L2**  
-**ρολόι επεξεργαστή**
+Όπου το assoc είναι το associativity, το entry_size είναι το cache_line και το size αντιστοιχεί στο μέγεθος
 
 **DDR3**  
 [system.mem_ctrls0]  
