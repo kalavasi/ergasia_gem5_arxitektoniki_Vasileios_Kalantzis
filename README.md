@@ -56,6 +56,8 @@ system.cpu_cluster.l2.overall_accesses::total          474
 
 [Το excel με τις τιμές για το μέρος 2. Υπάρχει 1 φύλλο για κάθε βήμα](files/arch_ergasia.xlsx)
 
+[Επιπλέον το bash script γραμμένο με βοήθεια AI](files/run_spec.sh)
+
 ### Βήμα 1
 
 1. Η default τιμές είναι:  
@@ -106,6 +108,8 @@ To cache_line είναι 64
 <!-- Εδώ μπαίνουν οι εικόνες των tests -->
 
 ![Test](images/ta_test.png)
+
+[Επιπλέον το bash script για τα τεστ γραμμένο με βοήθεια AI](files/run_spec_cache.sh)
 
 ![Test](images/test_benchmark_1.png)
 
