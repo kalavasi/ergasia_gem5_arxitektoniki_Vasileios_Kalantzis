@@ -96,6 +96,15 @@ To cache_line είναι 64
 
 ![Test](images/ta_test.png)
 
+![Test](images/test_benchmark_1.png)
+
+![Test](images/test_benchmark_2.png)
+
+![Test](images/test_benchmark_3.png)
+
+![Test](images/test_benchmark_4.png)
+
+![Test](images/test_benchmark_5.png)
 
 Γενικά παρατηρούμε ότι το κάθε benchmark έχει τις ιδιαιτερότητες του. Το μέγεθος του cacheline φαίνεται να είναι ο πιο καθοριστικός παράγοντας στην μείωση του CPI. Μετά από αυτό είναι η αύξηση των associativity τον cache και μετά οι αλλαγές στα μεγέθη. Ιδιαίτερο ενδιαφέρον προκαλεί το test 7 στον specmcf, όπου η μείωση του μεγέθους και του associativity της icache σε σχέση με τα άλλα test (είναι η default τιμές) επηρεάζει την απόδοση, ενώ στα άλλα test δεν βλέπουμε ιδιαίτερη διαφορά. Γενικά τα αποτελέσματα συμφωνούν με την θεωρία αφού σε κάθε τεστ βελτιώνουμε συνολικά τις δυνατότητες των cache όσο γίνεται και παρατηρούμε ότι το CPI μειώνεται από το test 1 στο test 10.
 
